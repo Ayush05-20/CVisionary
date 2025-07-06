@@ -22,7 +22,7 @@ Downloadable Reports: Allows users to download their parsed resume data as a PDF
 
 User-Friendly Web Interface: Built with Flask, providing an intuitive experience for uploading resumes and viewing results.
 
-🚀 Getting Started
+ Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 Prerequisites
@@ -32,7 +32,7 @@ Python 3.9+
 
 pip (Python package installer)
 
-MySQL Database Server: Make sure MySQL is running and you have a user with appropriate permissions (e.g., root with password my$qlayush1 as configured in helpers.py and pipelines.py).
+MySQL Database Server: Make sure MySQL is running and you have a user with appropriate permissions.
 
 Ollama: Install Ollama and pull the llama3.2 model (or your preferred compatible LLM).
 
@@ -44,7 +44,7 @@ Firebase Project:
 
 Create a Firebase project on the Firebase Console.
 
-Generate a Firebase Admin SDK private key. Download the JSON file and rename it to cvisionary-d034a-firebase-adminsdk-fbsvc-dca53ec298.json (or update the filename in app.py) and place it in the root directory of your project.
+Generate a Firebase Admin SDK private key..
 
 Google Gemini API Key:
 
@@ -74,7 +74,7 @@ Database Name: jobs
 
 User: root
 
-Password: my$qlayush1 (Please change this to a strong password in a production environment and use environment variables for sensitive data!)
+Password: (Please change this to a strong password in a production environment and use environment variables for sensitive data!)
 
 Running the Application
 Start Ollama: Ensure your Ollama server is running and the llama3.2 model is available.
