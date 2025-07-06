@@ -43,4 +43,4 @@ Set Environment Variables:
 export GEMINI_API_KEY="YOUR_GOOGLE_GEMINI_API_KEY"
 export FLASK_SECRET_KEY="a_very_strong_random_secret_key"
 
-Run Flask: python app.py (Access at http://127.0.0.1:5000/)
+
