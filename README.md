@@ -2,7 +2,7 @@ CVisionary: AI-Powered Resume & Job Matching System
 CVisionary is an advanced, AI-driven platform designed to streamline the job application process for candidates. It intelligently parses resumes, extracts key information, generates professional summaries, infers career interests, and provides tailored job recommendations by matching candidate profiles with scraped job listings using large language models (LLMs).
 
 ✨ Features
-Resume Parsing (ATS-Friendly): Utilizes AI (Google Gemini) to extract structured data (personal info, education, experience, skills, projects, certifications) from PDF, DOCX, DOC, and RTF resumes.
+Resume Parsing: Utilizes AI (Google Gemini) to extract structured data (personal info, education, experience, skills, projects, certifications) from PDF, DOCX, DOC, and RTF resumes.
 
 AI-Powered Resume Summarization: Automatically generates concise, professional summaries from parsed resume data.
 
